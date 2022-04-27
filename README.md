@@ -1,4 +1,4 @@
 # Portafolio
 
 
-My very own curriculum, work on constant progress
+My very own curriculum, work in constant progress
