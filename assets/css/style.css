@@ -32,3 +32,7 @@ font-weight: 550;
 .curso {
     font-weight: bold;
 }
+
+.card-text{
+    text-align: justify;
+}
