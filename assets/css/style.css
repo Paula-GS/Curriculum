@@ -14,6 +14,14 @@ h2 {
     text-align: justify;
     vertical-align: middle;
 }
+
+.comments {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center ;
+    vertical-align: middle;
+    padding: 1.5rem;
+}
+
 .principal{ 
     font-family: Montserrat, sans-serif; 
     font-size: 1.5rem;
@@ -60,5 +68,5 @@ font-weight: 550;
 }
 
 .cred {
-    padding: 3em;
+    padding: 1.5em;
 }
