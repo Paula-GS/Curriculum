@@ -1,21 +1,38 @@
 body {
+    color: #2b2a28;
 }
-
-h2, h5 {
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+}
+h2 {
     font-family: 'EB Garamond';
 }
 
-.definicion {
-    font-family: 'Montserrat';
-    text-shadow: 3px 3px 2px #2b2a28;
+.about-myself {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    text-align: justify;
+    vertical-align: middle;
+}
+.principal{ 
+    font-family: Montserrat, sans-serif; 
+    font-size: 1.5rem;
+    font-weight: lighter !important;
+}
+.sub-principal{
+    font-family: 'EB Garamond';
+    font-weight: bold;
 }
 
-.navbar{
-    font-family: 'Montserrat';
+.definicion {
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 3px 3px 2px #2b2a28;
+    color: white;
+    font-size: x-large
 }
 .nombre{
-    font-family: 'Eb Garamond';
-    color: #faeede;
+    font-family: 'Eb Garamond', serif;
+    color: white;
     font-size: 4rem;
     text-shadow: 3px 3px 2px #2b2a28;
 }
@@ -24,15 +41,24 @@ h2, h5 {
 font-size: 3rem;
 font-weight: 550;
 }
-
-.position {
-    font-size: 2rem;
+.place {
+    font-family: 'Eb Garamond', serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.date {
+    font-family: 'Eb Garamond, serif'
 }
 
-.curso {
-    font-weight: bold;
+.position {
+    font-family: 'EB Garamond';
+    font-size: 2rem;
 }
 
 .card-text{
     text-align: justify;
+}
+
+.cred {
+    padding: 3em;
 }
