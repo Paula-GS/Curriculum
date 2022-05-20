@@ -8,6 +8,10 @@ h2 {
     font-family: 'EB Garamond';
 }
 
+.contenido{
+    padding: calc(8px + 1.5625vw);
+}
+
 .about-myself {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.3rem;
@@ -21,7 +25,9 @@ h2 {
     vertical-align: middle;
     padding: 1.5rem;
 }
-
+.card{
+    margin-bottom: 2em;
+}
 .principal{ 
     font-family: 'Montserrat', sans-serif; 
     font-size: 1.5rem;
@@ -66,12 +72,16 @@ font-weight: 550;
 .card-text{
     text-align: justify;
 }
+.file{
+    margin: 1em;
+}
 
 .cred {
     padding: 1.5em;
     border-style: double;
     border-color: white;
     border-width: 10px;
+    margin-bottom: 2em;
 }
 .borde {
     padding-bottom: 5em;
