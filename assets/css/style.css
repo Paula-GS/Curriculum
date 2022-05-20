@@ -1,52 +1,15 @@
 body {
     color: #2b2a28;
 }
+/*NAVBAR*/
 .navbar{
     font-family: 'Montserrat', sans-serif;
 }
-h2 {
-    font-family: 'EB Garamond';
-}
-
-.contenido{
-    padding: calc(8px + 1.5625vw);
-}
-
-.photo{
-    text-align: right;
-    padding-left: calc(8px + 1.5625vw);
-}
-.about-myself {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.3rem;
-    text-align: justify;
-    vertical-align: middle;
-}
-
-.comments {
-    font-family: 'Montserrat', sans-serif;
-    text-align: center ;
-    vertical-align: middle;
-    padding: 0.5em;
-}
-.card{
-    margin-bottom: 2em;
-}
-.principal{ 
-    font-family: 'Montserrat', sans-serif; 
-    font-size: 1.5rem;
-    font-weight: lighter !important;
-}
-.sub-principal{
-    font-family: 'EB Garamond';
-    font-weight: bold;
-}
-
 .definicion {
     font-family: 'Montserrat', sans-serif;
     text-shadow: 3px 3px 2px #2b2a28;
     color: white;
-    font-size: x-large
+    font-size: x-large;
 }
 .nombre{
     font-family: 'Eb Garamond', serif;
@@ -54,10 +17,44 @@ h2 {
     font-size: 4rem;
     text-shadow: 3px 3px 2px #2b2a28;
 }
+h2 {
+    font-family: 'EB Garamond';
+}
 
+/*MAIN*/
+.contenido{
+    padding: calc(8px + 1.5625vw);
+}
 .title {
 font-size: 3rem;
 font-weight: 550;
+margin-top: 0.5em !important;
+}
+ /*ABOUT*/
+.about-myself {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    text-align: justify;
+    vertical-align: middle;
+}
+
+/*PORTFOLIO*/
+.comments {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center ;
+    vertical-align: middle;
+    padding: 0.5em;
+}
+/*PORTFOLIO & WORKING*/
+.card-text{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*WORKING*/
+.position {
+    font-family: 'EB Garamond';
+    font-size: 2rem;
 }
 .place {
     font-family: 'Eb Garamond', serif;
@@ -68,18 +65,16 @@ font-weight: 550;
     font-family: 'Eb Garamond, serif'
 }
 
-.position {
+/*CREDENTIAL*/
+.principal{ 
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 1.5rem;
+    font-weight: lighter !important;
+}
+.sub-principal{
     font-family: 'EB Garamond';
-    font-size: 2rem;
+    font-weight: bold;
 }
-
-.card-text{
-    text-align: justify;
-}
-.file{
-    margin: 1em;
-}
-
 .cred {
     padding: 1.5em;
     border-style: double;
@@ -87,20 +82,13 @@ font-weight: 550;
     border-width: 10px;
     margin-bottom: 2em;
 }
-.borde {
-    padding-bottom: 3.8em;
-}
-.borde2 {
-    padding-bottom: 4.5em;
-}
+/*FOOTER*/
 .iconos{
     align-items: center;
 }
-
 .icons{
     text-align: left;
 }
-
 .find-me{
     text-align: right;
 }
