@@ -12,6 +12,10 @@ h2 {
     padding: calc(8px + 1.5625vw);
 }
 
+.photo{
+    text-align: right;
+    padding-left: calc(8px + 1.5625vw);
+}
 .about-myself {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.3rem;
@@ -23,7 +27,7 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     text-align: center ;
     vertical-align: middle;
-    padding: 1.5rem;
+    padding: 0.5em;
 }
 .card{
     margin-bottom: 2em;
