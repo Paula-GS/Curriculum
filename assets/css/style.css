@@ -1,6 +1,9 @@
 body {
     color: #2b2a28;
 }
+a{
+    text-decoration: none;
+}
 /*NAVBAR*/
 .navbar{
     font-family: 'Montserrat', sans-serif;
