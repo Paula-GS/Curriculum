@@ -83,8 +83,8 @@ margin-top: 0.5em !important;
 /*EDUCATION*/
 .education{
     border-left: 10px solid #ac7443;
-    background: rgb(172,116,67);
-    background: linear-gradient(90deg, rgba(172,116,67,1) 0%, rgba(211,177,144,1) 0%, rgba(250,238,222,1) 100%);
+    background: rgb(234,214,191);
+    background: linear-gradient(90deg, rgba(234,214,191,1) 0%, rgba(250,238,222,1) 100%);
 }
 
 .principal{ 
